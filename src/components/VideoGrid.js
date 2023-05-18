@@ -22,8 +22,8 @@ const VideoGrid = ({ videos }) => {
   };
 
   const filteredVideos = selectedCategory
-    ? videos.filter((video) => video.category === selectedCategory)
-    : videos;
+  ? videos.filter((video) => video.category === selectedCategory)
+  : videos;
 
   const displayedVideos = filteredVideos.slice(0, visibleVideos);
 
