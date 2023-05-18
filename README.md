@@ -12,7 +12,8 @@
 * Vanilla CSS
 
 ## Live Site
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [https://video-grid-component.vercel.app/](https://video-grid-component.vercel.app/) to view it in your browser.
+
 ### `npm start`
 
 Runs the app in the development mode.\
